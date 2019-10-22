@@ -1,3 +1,3 @@
 # joshrep1
-This is my first repo.
-random
+This is my first repo for joshua.
+random 2
